@@ -37,7 +37,8 @@ class Stopwatch(QWidget):
             QLabel {
                 font-size: 120px;
                 background-color: hsl(200, 100%, 85%);
-                border-radius: 20px;                                                                                                   
+                border-radius: 20px; 
+                font-style: consolas                                                                                                             
             }                                                            
                            """)
         
